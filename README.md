@@ -1,5 +1,5 @@
 # faceit_stats
 
-Show faceit stats in ios and android application
+Before code, only pictures, font and constants.
 
 ## Getting Started
